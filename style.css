@@ -72,9 +72,10 @@ html, body {
 .cd{
     display: flex;
   flex-wrap: wrap;
+  flex-direction: row;
 }
 .card{
-    margin: 7vh 2vw;
+    margin: 4% 2%;
     box-shadow: 10px 10px 8px 10px #888888;
 }
 @media (max-width:600px) {
