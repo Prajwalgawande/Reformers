@@ -39,6 +39,7 @@ html, body {
     display: flex;
     flex-direction: column;
     padding: 0px 15vw;
+    margin-top: 35px;
     width: auto;
     height: 400px;
     justify-content: center;
