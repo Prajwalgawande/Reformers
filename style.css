@@ -7,7 +7,7 @@
 /* navbar */
 .navbar{
   position: fixed;
-  width: 99.4vw;
+  width: 99vw;
   z-index: 1;
 }
 .back{
@@ -151,8 +151,12 @@ margin-left: 10%;
 @media (max-width: 991px) {
   .blog_design{
     grid-template-columns: 1fr;
-    
   }
+  .navbar{
+      width: 100vw;
+    }
+    
+  
   grid-item {
     display: flex;
     align-items: center;
