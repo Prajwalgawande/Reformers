@@ -167,7 +167,10 @@ margin-left: 10%;
     height: 45vh;
   }
   .content_blog{
-    width: 90vw;
+    width: 80vw;
+    text-align: justify;
+    margin:  0px 20px;
+
   }
   
 }
